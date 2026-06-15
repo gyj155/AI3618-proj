@@ -52,7 +52,7 @@
 ---
 
 ## 演示视频
-<video src="Assets/demo.mp4" controls></video>
+Assets/demo.mp4
 
 ---
 
